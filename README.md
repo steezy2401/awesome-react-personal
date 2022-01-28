@@ -15,6 +15,7 @@
 
 ## React Styling
  - [stitches](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience
+ - [react-transition-group](https://github.com/reactjs/react-transition-group/tree/v1-stable) - React transition library
 
 ## React Component Libraries
  - [NextUI](https://nextui.org/) - Beautiful, fast and modern React UI library.
