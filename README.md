@@ -19,6 +19,7 @@
 
 ## React Component Libraries
  - [NextUI](https://nextui.org/) - Beautiful, fast and modern React UI library.
+ - [Mantine](https://mantine.dev/) - Build fully functional accessible web applications faster than ever – Mantine includes more than 120 customizable components and hooks to cover you in any situation
 
 ## React Testing
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing Framework
